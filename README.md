@@ -5,10 +5,7 @@ Play this enjoyable game with beautiful clean design. You can play on three diff
 This is lightweight, fun and beautiful looking game. Play it and try to beat your scores on Hard difficulty.
 
 Features:
--Multiple grid patterns
-
--You can change levels
-
--Minimalistic flat style
-
--Fun time killer!
+- Multiple grid patterns
+- You can change levels
+- Minimalistic flat style
+- Fun time killer!
